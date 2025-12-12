@@ -17,7 +17,7 @@ public class OrderServiceApplication implements CommandLineRunner {
     }
 
     @Autowired
-    private OrderService orderService = new OrderService();
+    private OrderService orderService;
 
     @Override
     public void run(String... args) throws Exception {
