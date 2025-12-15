@@ -14,7 +14,7 @@ O sistema consiste em calcular o valor total de um pedido, considerando uma porc
 | De R$ 100,00 até R$ 200,00 (exclusive) | R$ 12,00 |
 | R$ 200,00 ou mais | Grátis |
 
-## 🏗️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 A aplicação foi estruturada da seguinte forma para garantir a separação de responsabilidades:
 
@@ -28,7 +28,7 @@ A aplicação foi estruturada da seguinte forma para garantir a separação de r
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Java 21**
 * **Spring Boot 3.5.8**
